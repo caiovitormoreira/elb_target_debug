@@ -1,0 +1,5 @@
+first run 'export FLASK_APP=app.py' here inside this folder
+then run the flash thing with 'sudo flask run --host=0.0.0.0 --port=80 &'
+
+then access the api from browser or postman or whatever using: <ip>/prime?num=<any_number>
+
